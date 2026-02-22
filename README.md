@@ -12,11 +12,17 @@ This project was a journey of transforming theoretical **Object-Oriented Program
 The project follows a clean and modular structure for better maintainability:
 
 📂 Bank-System-OOP
+
  ┣ 📁 include/        # Custom Libraries (String, Date, Validation) & Class Headers
+ 
  ┣ 📁 data/           # Flat-file Database (Text files with custom separators)
+ 
  ┣ 📁 output/         # Compiled binaries and build objects
+ 
  ┣ 📜 .gitignore      # Keeping the repository clean
+ 
  ┗ 📜 Main.cpp        # Application Entry Point
+ 
 ---
 
 Login Screen
