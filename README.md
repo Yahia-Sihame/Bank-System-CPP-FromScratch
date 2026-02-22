@@ -20,31 +20,58 @@ The project follows a clean and modular structure for better maintainability:
 ---
 
 Login Screen
-<img width="1005" height="238" alt="Screenshot 2026-02-22 at 00 15 45" src="https://github.com/user-attachments/assets/9ce56ef8-e45f-41de-8efc-65efa755a150" />
+
+ <img width="1005" height="238" alt="Screenshot 2026-02-22 at 00 15 45" src="https://github.com/user-attachments/assets/9ce56ef8-e45f-41de-8efc-65efa755a150" />
+
+
 
 Main Menu
-<img width="786" height="402" alt="image" src="https://github.com/user-attachments/assets/b8fe4184-8f32-440a-ac33-74ac56509dd8" />
+
+ <img width="786" height="402" alt="image" src="https://github.com/user-attachments/assets/b8fe4184-8f32-440a-ac33-74ac56509dd8" />
+
+
 
 Show Client List
-<img width="1030" height="521" alt="image" src="https://github.com/user-attachments/assets/4d9941e2-6477-4ee5-92a4-ef0b0f972014" />
+
+ <img width="1030" height="521" alt="image" src="https://github.com/user-attachments/assets/4d9941e2-6477-4ee5-92a4-ef0b0f972014" />
+
+
 
 Add new Client
-<img width="1039" height="525" alt="image" src="https://github.com/user-attachments/assets/f7226212-83a9-4582-b57b-a0d44d21297f" />
+
+ <img width="1039" height="525" alt="image" src="https://github.com/user-attachments/assets/f7226212-83a9-4582-b57b-a0d44d21297f" />
+
+
 
 Transactions Screen
-<img width="941" height="431" alt="image" src="https://github.com/user-attachments/assets/504452f1-4822-4474-847f-c726d6c8554c" />
+
+ <img width="941" height="431" alt="image" src="https://github.com/user-attachments/assets/504452f1-4822-4474-847f-c726d6c8554c" />
+
+
 
 Login Register List Screen
-<img width="941" height="431" alt="image" src="https://github.com/user-attachments/assets/8ca5bd8f-fc03-4bc5-b51f-be617c9c3eca" />
+
+ <img width="941" height="431" alt="image" src="https://github.com/user-attachments/assets/8ca5bd8f-fc03-4bc5-b51f-be617c9c3eca" />
+
+
 
 Currency Exchange Menue
+
  <img width="692" height="302" alt="image" src="https://github.com/user-attachments/assets/614f8382-74d8-4a9b-b8e2-021d0b4c8ca0" />
 
+
+
 Currency Calculator
+
  <img width="855" height="584" alt="image" src="https://github.com/user-attachments/assets/40359c0a-c869-4603-bf9b-7e6bfb7722af" />
 
+
+
 Manage Users Menue
-<img width="734" height="330" alt="image" src="https://github.com/user-attachments/assets/be267d12-7e5d-4b8e-bab4-a2fc611b4527" />
+
+ <img width="734" height="330" alt="image" src="https://github.com/user-attachments/assets/be267d12-7e5d-4b8e-bab4-a2fc611b4527" />
+
+
 
 
 ## 🛠️ Technical Highlights
